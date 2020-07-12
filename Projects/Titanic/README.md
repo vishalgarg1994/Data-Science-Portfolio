@@ -11,22 +11,37 @@ This Project is purely for learning purpose and can be used as a tutorial to lea
 
 <h3><u><i>Technologies and Environment Used</h3></u></i><br>
 <table><tr>
-<td> <img src="images/Technologies.jpg" alt="Libraries used" style="width: 400px;height:160px"/> </td>
-<td> <img src="images/Anaconda.png" alt="Environment" style="width: 250px;height:160px"/> </td>
-<td> <img src="images/Jupyter.png" alt="For Writing Code" style="width: 250px;height:160px"/> </td>
+<td> <img src="images/Technologies.jpg" alt="Libraries used" style="width: 400px;height:120px"/> </td>
+<td> <img src="images/Anaconda.png" alt="Environment" style="width: 250px;height:120px"/> </td>
+<td> <img src="images/Jupyter.png" alt="For Writing Code" style="width: 250px;height:120px"/> </td>
 </tr></table>
 
 <h3><u><i>Steps to complete the Project</h3></u></i><br>
 <ol>
 <h4>
-<li><a href="#IMP">Importing Data and Libraries</a></li>
-<li><a href="#EDA">Exploratary Data Analyses</a><br></li>
-<li><a href="#FE">Feature Engineering</a><br></li>
-<li><a href="#MB">Building Model</a><br></li>
-<li><a href="#ACC">Model Tuning</a><br></li>
-<li><a href="#CON">Learnings & Conclusion</a><br></li>
-<li><a href="#CRE">Credits & References</a><br></li>
+<li>Importing Data and Libraries</li>
+<li>Exploratary Data Analyses<br></li>
+<li>Feature Engineering<br></li>
+<li>Building Model<br></li>
+<li>Model Tuning<br></li>
+<li>Learnings & Conclusion<br></li>
+<li>Credits & References<br></li>
 </h4>
 </ol>
-<center><h3><i>Want to learn more: <a href"https://github.com/vishalgarg1994">https://github.com/vishalgarg1994</a></i></h3><center>
+<center><h4><i>Want to learn more: <a href"https://github.com/vishalgarg1994">https://github.com/vishalgarg1994/Data-Science-Portfolio</a></i></h4><center>
 </div>
+
+
+<h3>Learnings & Conclusion</h3>
+<ul>
+   <li>If you are having small dataset,use cross Fold.You shouldn't split the data into train and test,else model learning will be impacted inversely</li> 
+    <li>You always have to take care of Data Leakage</li>
+    <li>Feature Engineering is the most important step followed by Model Tuning</li>
+    <li>It would be very helpful if you are having domain knowledge.So you can perform Feature Engineering in much better way</li>
+</ul>
+
+<h3>Credits & References</h3>
+<a href="https://github.com/ahmedbesbes/How-to-score-0.8134-in-Titanic-Kaggle-Challenge/blob/master/article_1.ipynb">
+Feature Engineering for Name and Age Features </a><br>
+<a href = "https://www.kaggle.com/c/titanic/">Project Link</a>
+<p><center><h2>Thanks!!! <h2></center><p>
