@@ -11,9 +11,9 @@ This Project is purely for learning purpose and can be used as a tutorial to lea
 
 <h3><u><i>Technologies and Environment Used</h3></u></i><br>
 <table><tr>
-<td> <img src="images/Technologies.jpg" alt="Libraries used" style="width: 400px;height:60px"/> </td>
-<td> <img src="images/Anaconda.png" alt="Environment" style="width: 250px;height:6px"/> </td>
-<td> <img src="images/Jupyter.png" alt="For Writing Code" style="width: 250px;height:60px"/> </td>
+<td> <img src="images/Technologies.jpg" alt="Libraries used" style="width: 200px;height:60px"/> </td>
+<td> <img src="images/Anaconda.png" alt="Environment" style="width: 125px;height:6px"/> </td>
+<td> <img src="images/Jupyter.png" alt="For Writing Code" style="width: 125px;height:60px"/> </td>
 </tr></table>
 
 <h3><u><i>Project Pipeline</h3></u></i><br>
@@ -45,3 +45,4 @@ Feature Engineering for Name and Age Features </a><br>
 <a href ="https://www.kaggle.com/c/titanic/">Project Link</a>
 <center><h4><i>Want to learn more: <a href="https://github.com/vishalgarg1994">https://github.com/vishalgarg1994/Data-Science-Portfolio</a></i></h4><center>
 <center><h2>Thanks!!! <h2></center>
+<a href="#top"><h4><p style="text-align:right;">top</p></a> 
