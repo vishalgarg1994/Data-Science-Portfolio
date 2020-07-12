@@ -27,9 +27,24 @@ This Project is purely for learning purpose and can be used as a tutorial to lea
 </h4>
 </ol>
 <center><h4><i>Full Project Explanation: <a href="https://github.com/vishalgarg1994/Data-Science-Portfolio/blob/master/Projects/Titanic/Titanic.ipynb">https://github.com/vishalgarg1994/Data-Science-Portfolio/blob/master/Projects/Titanic/Titanic.ipynb</a></i></h4><center>
-
 </div>
-
+<h3>Dataset columns information </h3>
+<i>
+    <ol>
+        <li><b>PassengerId:</b> Unique ID of every passanger</li>
+        <li><b>Survived:</b> This is the target variable having 0 or 1. 1 means Passanger has Survived 0 means Not Survived </li>
+        <li><b>Pclass:</b> Ticket class (1 = 1st, 2 = 2nd, 3 = 3rd)</li>
+        <li><b>Name:</b> Passenger Name</li>
+        <li><b>Sex:</b> Male or Female</li>
+        <li><b>Age: </b>Passenger's Age</li>
+        <li><b>SibSp:</b># of siblings / spouses aboard the Titanic</li>
+        <li><b>Parch: </b># of parents / children aboard the Titanic</li>
+        <li><b>Ticket:</b>Ticket Number</li>
+        <li><b>Fare:</b> Passenger Fare</li>
+        <li><b>Cabin:</b>Cabin number</li>
+        <li><b>Embarked:</b>Port of Embarkation(C = Cherbourg, Q = Queenstown, S = Southampton)(From Where did Passenger Boarded)</li>
+    </ol>
+</i>
 
 <h3>Learnings & Conclusion</h3>
 <ul>
