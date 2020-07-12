@@ -16,10 +16,8 @@ This Project is purely for learning purpose and can be used as a tutorial to lea
 <td> <img src="images/Jupyter.png" alt="For Writing Code" style="width: 250px;height:120px"/> </td>
 </tr></table>
 
-<h3><u><i>Steps to complete the Project</h3></u></i><br>
-<ol>
-<h4>
-<li>Importing Data and Libraries</li>
+<h3><u><i>Project Pipeline</h3></u></i><br>
+<ol><h4><li>Importing Data and Libraries</li>
 <li>Exploratary Data Analyses<br></li>
 <li>Feature Engineering<br></li>
 <li>Building Model<br></li>
