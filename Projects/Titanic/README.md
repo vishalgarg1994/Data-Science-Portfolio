@@ -10,11 +10,9 @@
 This Project is purely for learning purpose and can be used as a tutorial to learn for a Data Science student. I will be more than happy if someone will learn something from this project. 
 
 <h3><u><i>Technologies and Environment Used</h3></u></i><br>
-<table><tr>
-<td> <img src="images/Technologies.jpg" alt="Libraries used" style="width: 200px;height:60px"/> </td>
-<td> <img src="images/Anaconda.png" alt="Environment" style="width: 125px;height:6px"/> </td>
-<td> <img src="images/Jupyter.png" alt="For Writing Code" style="width: 125px;height:60px"/> </td>
-</tr></table>
+
+<img src="images/Technologies1.jpg" alt="Libraries used" style="width: 200px;height:60px"/> 
+
 
 <h3><u><i>Project Pipeline</h3></u></i><br>
 <ol><h4><li>Importing Data and Libraries</li>
