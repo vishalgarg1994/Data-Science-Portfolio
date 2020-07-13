@@ -11,7 +11,7 @@ This Project is purely for learning purpose and can be used as a tutorial to lea
 
 <h3><u><i>Technologies and Environment Used</h3></u></i><br>
 
-<img src="images/Technologies3.jpg" alt="Libraries used" style="width: 100px;height:30px"/> 
+<img src="images/Technologies4.jpg" alt="Libraries used" style="width: 100px;height:30px"/> 
 
 
 <h3><u><i>Project Pipeline</h3></u></i><br>
